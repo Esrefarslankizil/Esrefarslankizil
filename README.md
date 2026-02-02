@@ -1,11 +1,12 @@
+
 <div align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=[Adın%20Soyadın]&fontSize=70&fontAlignY=35&desc=Backend%20Developer%20%26%20Security%20Enthusiast&descSize=25&descAlignY=55&animation=fadeIn" style="max-width: 100%;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=E%C5%9Fref%20K%C4%B1z%C4%B1larslan&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20Security%20Enthusiast&descSize=25&descAlignY=55&animation=fadeIn" style="max-width: 100%;">
   </a>
 </div>
 
 <div align="center" dir="auto">
-  <h2>🚀 Backend Architect & Tech Enthusiast 🛡️</h2>
+  <h2>🚀 Full Stack Developer & Tech Enthusiast 🛡️</h2>
 </div>
 
 <div align="center" dir="auto">
@@ -17,10 +18,10 @@
     <ul dir="auto">
       <li>🎓 <b>Fırat Üniversitesi</b> Yazılım Mühendisliği Öğrencisi</li>
       <li>💼 Üniversitenin <b>Dijital Dönüşüm Ofisi</b>'nde Part-time Geliştirici</li>
-      <li>🚀 <b><a href="https://paytaksi.com.tr">GoTaksi (PayTaksi)</a></b> projesinin kurucusu ve mimarı</li>
-      <li>🛡️ <b>Code23</b> programı ile Siber Güvenlik altyapısı</li>
-      <li>💻 <b>.NET Core</b> ve <b>Laravel</b> ile ölçeklenebilir sistemler tasarlıyorum</li>
-      <li>📚 Veri güvenliği ve backend mimarileri üzerine çalışıyorum</li>
+      <li>🚀 <b><a href="https://paytaksi.com.tr">GoTaksi (PayTaksi)</a></b> projesinin mimarı</li>
+      <li>🛡️ <b>Code23</b> programı ile Güvenli Yazılım Geliştirme (SecDevOps)</li>
+      <li>💻 <b>.NET Core</b> ve <b>Laravel</b> ile Full Stack çözümler üretiyorum</li>
+      <li>✨ <b>Clean Code</b> prensiplerine sadık, ölçeklenebilir mimariler tasarlıyorum</li>
     </ul>
   </div>
 </div>
@@ -51,12 +52,12 @@
     <tbody>
       <tr>
         <td align="center" width="33%">
-          <h3>💻 Backend Mastery</h3>
+          <h3>💻 Full Stack Mastery</h3>
           <ul dir="auto" align="left">
-            <li>.NET Web API</li>
+            <li>.NET Web API & MVC</li>
             <li>Laravel Ecosystem</li>
-            <li>Microservices</li>
             <li>Clean Architecture</li>
+            <li>Front-end Integrations</li>
           </ul>
         </td>
         <td align="center" width="33%">
@@ -69,12 +70,12 @@
           </ul>
         </td>
         <td align="center" width="33%">
-          <h3>🧠 Learning Goals</h3>
+          <h3>☁️ Learning Goals (Dream)</h3>
           <ul dir="auto" align="left">
-            <li>Advanced Cyber Security</li>
-            <li>Cloud Architecture (AWS/Azure)</li>
+            <li><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"></li>
+            <li>Cloud Architecture</li>
+            <li>Microservices</li>
             <li>DevOps Pipelines</li>
-            <li>High Traffic Scalability</li>
           </ul>
         </td>
       </tr>
@@ -87,17 +88,11 @@
 </div>
 
 <div align="center" dir="auto">
-  <a href="https://github.com/[GITHUB_KULLANICI_ADIN]">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="mailto:esrefyazilimmuh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-esrefyazilimmuh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="mailto:[EPOSTA_ADRESIN]">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/[LINKEDIN_KULLANICI_ADIN]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://paytaksi.com.tr">
-    <img src="https://img.shields.io/badge/Web-PayTaksi-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  <a href="https://www.linkedin.com/in/e%C5%9Fref-kizilarslan-a72422294">
+    <img src="https://img.shields.io/badge/LinkedIn-Eşref_Kızılarslan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 <br>
