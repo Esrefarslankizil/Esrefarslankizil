@@ -1,112 +1,107 @@
-<div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F7931A&center=true&vCenter=true&width=650&lines=Backend+Architect+🚀;Building+Scalable+Systems+💎;Creator+of+GoTaksi+🚕" alt="Typing SVG" />
-  
-  <p>
-      <samp>Fırat Üniversitesi Yazılım Müh. | Dijital Dönüşüm Ofisi | <b>Full Focus Backend</b></samp>
-  </p>
-
-  <br>
-
-  <table border="0" width="100%" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center">
-        <h3>⚡ AMİRAL GEMİSİ PROJEM ⚡</h3>
-        <h1><span style="color:#FF0080;">GO TAKSİ</span> (PayTaksi)</h1>
-        <p>Şehir içi ulaşım ekosistemini dijitalleştiren, yüksek ölçeklenebilir backend mimarisi.</p>
-        
-        <p>
-          <img src="https://img.shields.io/badge/Status-CANLI_YAYINDA_🟢-2ea44f?style=flat-square&logo=githubactions&logoColor=white" />
-          <img src="https://img.shields.io/badge/Rol-Lead_Backend_Mimarı-7000FF?style=flat-square&logo=abstract&logoColor=white" />
-          <img src="https://img.shields.io/badge/Platform-Web_%26_Mobil_🔥-FF5722?style=flat-square" />
-        </p>
-
-        <a href="https://paytaksi.com.tr" target="_blank">
-          <img src="https://socialify.git.ci/paytaksi-com-tr/paytaksi/image?description=1&descriptionEditable=%C5%9Eehir%20%C4%B0%C0%A7i%20Ula%C5%9F%C4%B1m%C4%B1n%20Dijital%20Gelece%C4%9Fi&font=Rokkitt&language=1&logo=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F2344%2F2344132.png&name=1&owner=1&pattern=Diagonal%20Stripes&theme=Radical" alt="PayTaksi Neon Preview" width="650" style="border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 128, 0.5);" />
-        </a>
-        
-        <br><br>
-        
-        <a href="https://paytaksi.com.tr">
-          <img src="https://img.shields.io/badge/🚀_CANLI_SİTEYİ_ZİYARET_ET_-FF0080?style=for-the-badge&logo=rocket&logoColor=white" height="50" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br><br>
-
-  <h3>🛠️ Teknoloji Cephaneliğim</h3>
-  
-  <table cellpadding="5">
-    <tr>
-      <td align="center" width="130" style="border-right: 2px solid #7000FF;">
-        <img src="https://img.shields.io/badge/CORE_⚡-000000?style=flat-square&color=7000FF" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP_8.2-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Laravel_10-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border-right: 2px solid #F7931A;">
-        <img src="https://img.shields.io/badge/DATA_💾-000000?style=flat-square&color=F7931A" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase_🔥-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border-right: 2px solid #00C7FF;">
-        <img src="https://img.shields.io/badge/DEVOPS_🐳-000000?style=flat-square&color=00C7FF" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_KULLANICI_ADIN]&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FF0080&icon_color=F7931A" height="160" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_KULLANICI_ADIN]&layout=compact&theme=radical&hide_border=true&langs_count=5&title_color=FF0080" height="160" />
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/🛡️_Siber_Güvenlik_Sertifikası-Code23_Eğitimi-critical?style=for-the-badge&logo=hackthebox&logoColor=white&color=FF0000" height="35" />
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="#">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=[Adın%20Soyadın]&fontSize=70&fontAlignY=35&desc=Backend%20Developer%20%26%20Security%20Enthusiast&descSize=25&descAlignY=55&animation=fadeIn" style="max-width: 100%;">
   </a>
+</div>
 
-  <br><br><br>
+<div align="center" dir="auto">
+  <h2>🚀 Backend Architect & Tech Enthusiast 🛡️</h2>
+</div>
 
-  <img src="https://raw.githubusercontent.com/platane/platane/master/waves.svg" width="100%" height="80" alt="waves divider" />
-  
-  <br>
-
-  <a href="https://linkedin.com/in/[LINKEDIN_KULLANICI_ADIN]">
-    <img src="https://img.shields.io/badge/LinkedIn-Bağlan_💼-0077B5?style=for-the-badge&logo=linkedin" height="40" />
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" align="right" style="max-width: 100%;">
   </a>
-  &nbsp;&nbsp;
+  <div align="left" dir="auto">
+    <h3>👨‍💻 Hakkımda</h3>
+    <ul dir="auto">
+      <li>🎓 <b>Fırat Üniversitesi</b> Yazılım Mühendisliği Öğrencisi</li>
+      <li>💼 Üniversitenin <b>Dijital Dönüşüm Ofisi</b>'nde Part-time Geliştirici</li>
+      <li>🚀 <b><a href="https://paytaksi.com.tr">GoTaksi (PayTaksi)</a></b> projesinin kurucusu ve mimarı</li>
+      <li>🛡️ <b>Code23</b> programı ile Siber Güvenlik altyapısı</li>
+      <li>💻 <b>.NET Core</b> ve <b>Laravel</b> ile ölçeklenebilir sistemler tasarlıyorum</li>
+      <li>📚 Veri güvenliği ve backend mimarileri üzerine çalışıyorum</li>
+    </ul>
+  </div>
+</div>
+<br>
+
+<div align="center" dir="auto">
+  <h2>🛠️ Tech Stack & Tools</h2>
+</div>
+
+<div align="center" dir="auto">
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+<br>
+
+<div align="center" dir="auto">
+  <h2>🚀 Current Focus</h2>
+</div>
+
+<div align="center" dir="auto">
+  <table>
+    <tbody>
+      <tr>
+        <td align="center" width="33%">
+          <h3>💻 Backend Mastery</h3>
+          <ul dir="auto" align="left">
+            <li>.NET Web API</li>
+            <li>Laravel Ecosystem</li>
+            <li>Microservices</li>
+            <li>Clean Architecture</li>
+          </ul>
+        </td>
+        <td align="center" width="33%">
+          <h3>🚀 Projects</h3>
+          <ul dir="auto" align="left">
+            <li><b>GoTaksi</b> Platformu</li>
+            <li>Kurumsal Dijitalleşme</li>
+            <li>API Entegrasyonları</li>
+            <li>Veri Tabanı Optimizasyonu</li>
+          </ul>
+        </td>
+        <td align="center" width="33%">
+          <h3>🧠 Learning Goals</h3>
+          <ul dir="auto" align="left">
+            <li>Advanced Cyber Security</li>
+            <li>Cloud Architecture (AWS/Azure)</li>
+            <li>DevOps Pipelines</li>
+            <li>High Traffic Scalability</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div align="center" dir="auto">
+  <h2>📫 Connect With Me</h2>
+</div>
+
+<div align="center" dir="auto">
+  <a href="https://github.com/[GITHUB_KULLANICI_ADIN]">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
   <a href="mailto:[EPOSTA_ADRESIN]">
-    <img src="https://img.shields.io/badge/Email-Bana_Yaz_📧-D14836?style=for-the-badge&logo=gmail&color=2ea44f" height="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  
-  <p>
-    <br>
-    <i>"Geleceği tahmin etmenin en iyi yolu, onu kodlamaktır."</i>
-  </p>
+  <a href="https://www.linkedin.com/in/[LINKEDIN_KULLANICI_ADIN]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://paytaksi.com.tr">
+    <img src="https://img.shields.io/badge/Web-PayTaksi-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+</div>
+<br>
 
+<div align="center" dir="auto">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" style="max-width: 100%;">
 </div>
